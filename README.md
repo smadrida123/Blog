@@ -1,0 +1,2 @@
+# Blog
+Ejemplo curso PLatzi

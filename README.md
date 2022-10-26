@@ -4,4 +4,5 @@ Ejemplo curso Platzi
 # Contenido
 * comandos
 * flujo de trabajo
+* prueba git cherry
 
